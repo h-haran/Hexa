@@ -10,7 +10,7 @@ In cmd window: [hdr, record] = edfread('E:\EEG\EEG_Digitized_Data\chb01_01.edf')
 
 Now load EEG_recrd_1_cnversion.m  Note : I have taken only three channels so depending on you work choose it and extend the code.
 
-Then for even spacing load EEG_recrd_1_Spacing.m
+Then for even spacing load EEG_recrd_1_Spacing.m Note : I have taken 16 bits quantization.
 
 Thats it you are ready to go
 

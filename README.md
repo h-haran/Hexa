@@ -13,3 +13,5 @@ Now load EEG_recrd_1_cnversion.m  Note : I have taken only three channels so dep
 Then for even spacing load EEG_recrd_1_Spacing.m
 
 Thats it you are ready to go
+
+If  there is any feedback or need any assist reach me out @-> haran0892@gmail.com
